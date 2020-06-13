@@ -19,6 +19,3 @@ Today / Notifications
 ON / OFF Toggle tabs
 ![alt text](https://github.com/GaneshMadhuDev/AppleSliderMenu/blob/master/screenshots/4.png?raw=true)
 
-
-Night Mode ON / OFF
-![alt text](https://github.com/GaneshMadhuDev/AppleSliderMenu/blob/master/screenshots/1.png?raw=true)
