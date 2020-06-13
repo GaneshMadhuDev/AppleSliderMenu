@@ -13,11 +13,12 @@ Features
 Apple Theme Slider Match
 ![alt text](https://github.com/GaneshMadhuDev/AppleSliderMenu/blob/master/screenshots/2.png?raw=true)
 
-ON / OFF Toggle tabs
+Today / Notifications
 ![alt text](https://github.com/GaneshMadhuDev/AppleSliderMenu/blob/master/screenshots/3.png?raw=true)
 
-Today / Notifications
+ON / OFF Toggle tabs
 ![alt text](https://github.com/GaneshMadhuDev/AppleSliderMenu/blob/master/screenshots/4.png?raw=true)
+
 
 Night Mode ON / OFF
 ![alt text](https://github.com/GaneshMadhuDev/AppleSliderMenu/blob/master/screenshots/1.png?raw=true)
